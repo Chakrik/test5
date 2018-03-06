@@ -1,6 +1,6 @@
-package test4;
+package test5;
 
-public class test44 {
+public class test5 {
 
 	public static void main(String[] args) {
 		
